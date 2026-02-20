@@ -3,7 +3,7 @@
 /**
  * @file main.ino
  * @brief Embedded Force Measurement System using FSR
- * @author YOUR_NAME
+ * @author Krish_choudhary
  * @date 2026-02-20
  *
  * @details
